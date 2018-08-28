@@ -8,6 +8,11 @@ body {
    .home {
        padding-right: 3.5rem !important;
    }
+    #new {
+        background: #007bff;
+        color: white;
+        border-radius: .25rem;
+   }
    footer {
        margin-bottom: 0;
        margin-top: 20%;
